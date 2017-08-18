@@ -3,4 +3,4 @@
 FROM ubuntu:latest
 
 # Install utilities that are usefull in all containers
-RUN apt-get update && apt-get intall nano -y
+RUN apt-get update && apt-get install nano -y
